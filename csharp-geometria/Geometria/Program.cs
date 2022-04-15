@@ -2,7 +2,7 @@
 
 using Geometria;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, Worl!");
 
 Console.WriteLine("\nInserisci la base del rettangolo");
 int inputBaseUtente = int.Parse(Console.ReadLine());
